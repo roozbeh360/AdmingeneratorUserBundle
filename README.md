@@ -14,6 +14,20 @@ Don't miss any updates from **Symfony2 Admin Generator**! Join Twitter today and
 
 ## How to setup
 
+### Download using composer
+
+```
+{
+    "require": {
+        "cedriclombardot/admingenerator-user-bundle": "*",
+    }
+}
+```
+Run :
+```
+$ php composer.phar update cedriclombardot/admingenerator-user-bundle
+```
+
 ### Clone the repo
 
 ```
